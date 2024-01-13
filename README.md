@@ -25,9 +25,6 @@ I’m currently learning **Golang net/http**
 <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/download/184143/java.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
 <a href="https://golang.org" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/golang-1.svg" alt="go" width="40" height="40"/> </a> 
 
