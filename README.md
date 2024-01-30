@@ -1,4 +1,4 @@
-g<h1 align="center">Hi 👋, I'm Nevezhin Yan</h1>
+<h1 align="center">Hi 👋, I'm Nevezhin Yan</h1>
 <h3 align="center">Road to Junior Golang BackEnd Dev From Kazakhstan</h3>
 <p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'26 first-year student </p>
 
