@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nevezhin Yan</h1>
+g<h1 align="center">Hi 👋, I'm Nevezhin Yan</h1>
 <h3 align="center">Road to Junior Golang BackEnd Dev From Kazakhstan</h3>
 <p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'26 first-year student </p>
 
@@ -38,7 +38,7 @@ I’m currently learning **Golang net/http**
 <img src="https://avatars.githubusercontent.com/u/89578248?s=200&v=4" alt="FastAPIUsers" width="40" height="40"/> </a>
 
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
-<img src="https://depix.ru/uploads/Page/237/redis.svg" alt="Redis" width="40" height="40"/> </a>
+<img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" width="40" height="40"/> </a>
 
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
 <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> </a>
