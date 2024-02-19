@@ -2,7 +2,7 @@
 <h3 align="center">Road to Junior Golang BackEnd Dev From Kazakhstan</h3>
 <p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'26 first-year student </p>
 
-I’m currently learning **Golang net/http**
+I’m currently learning **Golang net/http, GraphQL**
 
 - 📫 How to reach me: **yaniknezhin@gmail.com**
 
