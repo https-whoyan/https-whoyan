@@ -2,6 +2,8 @@
 <h3 align="center">Road to Junior Golang BackEnd Dev From Kazakhstan</h3>
 <p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'26 first-year student </p>
 
+![](https://komarev.com/ghpvc/?username=https-whoyan&color=73556D)
+
 I’m currently learning **Golang net/http, GraphQL**
 
 - 📫 How to reach me: **yaniknezhin@gmail.com**
