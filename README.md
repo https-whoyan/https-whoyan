@@ -69,6 +69,6 @@ I’m currently learning **Golang net/http, GraphQL**
 </div>
 
 <div align="center" style="display: flex;">
-<img src='https://leetcard.jacoblin.cool/https_whoyan?theme=dark&ext=contest&border=0'> </img>
+<img src='https://leetcard.jacoblin.cool/https_whoyan?theme=dark&ext=contest&border=0' height=315px> </img>
 </div>
 
