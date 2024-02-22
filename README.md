@@ -2,7 +2,9 @@
 <h3 align="center">Road to Junior Golang BackEnd Dev From Kazakhstan</h3>
 <p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'26 first-year student </p>
 
-![](https://komarev.com/ghpvc/?username=https-whoyan&color=73556D)
+<div align="center" style="display: flex;">
+<img align="center" src='https://komarev.com/ghpvc/?username=https-whoyan&color=4F4B6B' weight=80px> </img>
+</div>
 
 I’m currently learning **Golang net/http, GraphQL**
 
@@ -59,7 +61,14 @@ I’m currently learning **Golang net/http, GraphQL**
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/> </a>  
-
 </p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/https_whoyan)](https://leetcode.com/https_whoyan/)
+<div align="center" style="display: flex;">
+<img src=https://github-readme-stats.vercel.app/api?username=https-whoyan&show_icons=true&locale=en&title_color=48E0FF&text_color=F3F77E&bg_color=121212&icon_color=C392C7&hide_border=true height=200px> </img>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=https-whoyan&hide_title=false&layout=compact&langs_count=5&title_color=48E0FF&text_color=FFFDFF&bg_color=121212&hide_border=true height=200px> </img>
+</div>
+
+<div align="center" style="display: flex;">
+<img src='https://leetcard.jacoblin.cool/https_whoyan?theme=dark&ext=contest&border=0'> </img>
+</div>
+
