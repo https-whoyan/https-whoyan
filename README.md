@@ -64,8 +64,8 @@ I’m currently learning **Golang net/http, GraphQL**
 </p>
 
 <div align="center" style="display: flex;">
-<img src=https://github-readme-stats.vercel.app/api?username=https-whoyan&show_icons=true&locale=en&title_color=48E0FF&text_color=F3F77E&bg_color=121212&icon_color=C392C7&hide_border=true height=200px> </img>
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=https-whoyan&hide_title=false&layout=compact&langs_count=5&title_color=48E0FF&text_color=FFFDFF&bg_color=121212&hide_border=true height=200px> </img>
+<img src=https://github-readme-stats.vercel.app/api?username=https-whoyan&show_icons=true&locale=en&title_color=48E0FF&text_color=F3F77E&bg_color=121212&icon_color=C392C7&hide_border=true height=170px> </img>
+<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=https-whoyan&hide_title=false&layout=compact&langs_count=5&title_color=48E0FF&text_color=FFFDFF&bg_color=121212&hide_border=true height=170px> </img>
 </div>
 
 <div align="center" style="display: flex;">
