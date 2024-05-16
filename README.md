@@ -6,7 +6,7 @@
 <img align="center" src='https://komarev.com/ghpvc/?username=https-whoyan&color=4F4B6B' weight=80px> </img>
 </div> <hr>
 
-I’m currently learning <b>Golang net/http, discordgo, MongoDB</b>
+I’m currently learning <b>discordgo, MongoDB</b>
 
 - 📫 How to reach me: **yaniknezhin@gmail.com**
 
