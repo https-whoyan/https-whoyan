@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nevezhin Yan</h1>
-<h3 align="center">Road to Junior Golang BackEnd Dev From Kazakhstan</h3>
+<h3 align="center">Junior Golang BackEnd Dev From Kazakhstan</h3>
 <p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'26 first-year student </p>
 
 <div align="center" style="display: flex;">
 <img align="center" src='https://komarev.com/ghpvc/?username=https-whoyan&color=4F4B6B' weight=80px> </img>
 </div> <hr>
 
-I’m currently learning <b>discordgo, MongoDB</b>
+I’m currently learning <b>Clickhouse, gorilla</b>
 
 - 📫 How to reach me: **yaniknezhin@gmail.com**
 
@@ -24,7 +24,7 @@ I’m currently learning <b>discordgo, MongoDB</b>
 <b> <p align="left">Languages, Tools and Libs:</p> </b>
 <p align="left"> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="cplusplus" width="40" height="40"/> </a> 
 
 <a href="https://www.java.com/ru/" target="_blank" rel="noreferrer">
 <img src="https://www.svgrepo.com/download/184143/java.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -41,11 +41,35 @@ I’m currently learning <b>discordgo, MongoDB</b>
 <a href="https://fastapi-users.github.io/fastapi-users/" target="_blank" rel="noreferrer"> 
 <img src="https://avatars.githubusercontent.com/u/89578248?s=200&v=4" alt="FastAPIUsers" width="40" height="40"/> </a>
 
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> </a>
+
+<a href="https://grpc.io/docs/what-is-grpc/introduction/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svglogos.net/wp-content/uploads/grpc.svg" alt="gRPC" width="40" height="40"/> </a>
+
+<a href="https://github.com/gin-gonic/gin" target="_blank" rel="noreferrer"> 
+<img src="https://avatars.githubusercontent.com/u/7894478?s=48&v=4" alt="gin" width="40" height="40"/> </a>
+
+<a href="https://github.com/valyala/fasthttp" target="_blank" rel="noreferrer"> 
+<img src="https://avatars.githubusercontent.com/u/42277636?s=200&v=4" alt="fast-http" width="40" height="40"/> </a>
+
+<a href="https://github.com/bwmarrin/discordgo" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/bwmarrin/discordgo/master/docs/img/discordgo.svg" alt="discord-go" width="40" height="40"/> </a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/> </a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+
 <a href="https://redis.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="Redis" width="40" height="40"/> </a>
 
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer"> 
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="40" height="40"/> </a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="mongo-db" width="40" height="40"/> </a>  
 
 <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="HTML5" width="40" height="40"/> </a>
@@ -53,14 +77,11 @@ I’m currently learning <b>discordgo, MongoDB</b>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40"/> </a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
-
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/> </a>  
+
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
+<img src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" alt="Gitlab" width="40" height="40"/> </a>  
 </p>
 
 <div align="center" style="display: flex;">
