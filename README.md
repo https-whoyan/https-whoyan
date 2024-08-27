@@ -77,11 +77,18 @@ I’m currently learning <b>Clickhouse, gorilla</b>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="40" height="40"/> </a>
 
+<a href="https://grafana.com/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_icon.svg" alt="Graphana" width="40" height="40"/> </a>  
+</p>
+
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/> </a>  
 
+<a href="https://github.com/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github" width="40" height="40"/> </a>  
+
 <a href="https://gitlab.com/" target="_blank" rel="noreferrer"> 
-<img src="https://images.ctfassets.net/xz1dnu24egyd/3JZABhkTjUT76LCIclV7sH/17a92be9bce78c2adcc43e23aabb7ca1/gitlab-logo-500.svg" alt="Gitlab" width="40" height="40"/> </a>  
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" alt="Gitlab" width="40" height="40"/> </a>  
 </p>
 
 <div align="center" style="display: flex;">
