@@ -97,6 +97,6 @@ I’m currently learning <b>Clickhouse, gorilla</b>
 </div>
 
 <div align="center" style="display: flex;">
-<img src='https://leetcard.jacoblin.cool/https_whoyan?theme=dark&ext=contest&border=0' height=315px> </img>
+<img src='https://leetcard.jacoblin.cool/https_whxyan?theme=dark&ext=contest&border=0' height=315px> </img>
 </div>
 
