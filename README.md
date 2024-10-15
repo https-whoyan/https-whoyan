@@ -17,7 +17,7 @@ I’m currently learning <b>Clickhouse, gorilla</b>
 
 <b> <p align="left">Connect with me:</p> </b>
 <a href="https://linkedin.com/in/ян-невежин-4a637128a" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ян-невежин-4a637128a" height="30" width="40" /></a>
-<a href="https://instagram.com/https_whoyan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zxc_whoyan" height="30" width="40" /></a>
+<a href="https://instagram.com/https_whxyan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zxc_whoyan" height="30" width="40" /></a>
 <a href="https://t.me/https_whoyan" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="zxc_whoyan" height="30" width="40" /></a>
 <p align="left">
 
