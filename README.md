@@ -12,7 +12,7 @@ I’m currently learning <b>Clickhouse, gorilla</b>
 
 <b> <p align="left">Links to me in other platforms:</p> </b>
 <a href="https://codeforces.com/profile/mathlove2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mathlove2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https_whoyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zxc_whoyan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/https_whxyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="zxc_whoyan" height="30" width="40" /></a>
 </p>
 
 <b> <p align="left">Connect with me:</p> </b>
