@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nevezhin Yan</h1>
-<h3 align="center">Strong Junior Golang BackEnd Dev From Kazakhstan</h3>
-<p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'27 second year student </p>
+<h3 align="center">Middle Golang BackEnd Dev From Kazakhstan</h3>
+<p align="center"> <a href="https://astanait.edu.kz/">AITU</a>'28 second year student </p>
 
 <div align="center" style="display: flex;">
 <img align="center" src='https://komarev.com/ghpvc/?username=https-whoyan&color=4F4B6B' weight=80px> </img>
